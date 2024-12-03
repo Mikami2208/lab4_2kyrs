@@ -1,0 +1,15 @@
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/bin/Debug/net7.0/lab4_2kyrs
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/bin/Debug/net7.0/lab4_2kyrs.deps.json
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/bin/Debug/net7.0/lab4_2kyrs.runtimeconfig.json
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/bin/Debug/net7.0/lab4_2kyrs.dll
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/bin/Debug/net7.0/lab4_2kyrs.pdb
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.csproj.AssemblyReference.cache
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.AssemblyInfoInputs.cache
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.AssemblyInfo.cs
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.csproj.CoreCompileInputs.cache
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.dll
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/refint/lab4_2kyrs.dll
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.pdb
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/lab4_2kyrs.genruntimeconfig.cache
+/Users/artemdwightm1/RiderProjects/lab4_2kyrs/lab4_2kyrs/obj/Debug/net7.0/ref/lab4_2kyrs.dll
